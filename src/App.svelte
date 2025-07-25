@@ -14,7 +14,7 @@
 <nav>
 	<a href="#/">Home</a>
 	<a href="#/valentine">Valentine</a>
-	<a href="#/dice">Dice</a>
+	<!-- <a href="#/dice">Dice</a> -->
 </nav>
 
 <main>
